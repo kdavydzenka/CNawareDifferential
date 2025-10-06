@@ -26,4 +26,5 @@ CN-aware analysis using *DeConveil* to correct for CNV-driven effects in gene ex
 - **Downstream analysis:**
 supports gene categorization and interpretation based on CN-aware differential expression outcomes.
 
+
 <img src="figures/CNawareDifferential.webp" width="600">
