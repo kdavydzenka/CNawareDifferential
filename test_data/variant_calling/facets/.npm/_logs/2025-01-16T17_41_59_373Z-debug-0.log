@@ -1,0 +1,33 @@
+0 verbose cli /orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/node_env-default/bin/node /orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/node_env-default/bin/npm
+1 info using npm@10.9.2
+2 info using node@v23.6.0
+3 silly config load:file:/orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/node_env-default/lib/node_modules/npm/npmrc
+4 silly config load:file:/u/cdslab/kdavydzenka/.npmrc
+5 silly config load:file:/orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/node_env-default/etc/npmrc
+6 verbose title npm install /orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/placeholder_package-0.0.0.tgz prettier@2.7.1
+7 verbose argv "install" "--global" "/orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/placeholder_package-0.0.0.tgz" "prettier@2.7.1"
+8 verbose logfile logs-max:10 dir:/u/cdslab/kdavydzenka/.npm/_logs/2025-01-16T17_41_59_373Z-
+9 verbose logfile /u/cdslab/kdavydzenka/.npm/_logs/2025-01-16T17_41_59_373Z-debug-0.log
+10 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+11 silly logfile done cleaning log files
+12 silly idealTree buildDeps
+13 silly fetch manifest prettier@2.7.1
+14 silly packumentCache full:https://registry.npmjs.org/prettier cache-miss
+15 http fetch GET 200 https://registry.npmjs.org/prettier 203ms (cache miss)
+16 silly packumentCache full:https://registry.npmjs.org/prettier set size:undefined disposed:false
+17 silly fetch manifest placeholder_package@file:../../placeholder_package-0.0.0.tgz
+18 silly placeDep ROOT placeholder_package@0.0.0 OK for:  want: file:../../placeholder_package-0.0.0.tgz
+19 silly placeDep ROOT prettier@2.7.1 OK for:  want: 2.7.1
+20 silly reify moves {}
+21 http cache placeholder_package@file:/orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/placeholder_package-0.0.0.tgz 0ms (cache hit)
+22 http cache prettier@https://registry.npmjs.org/prettier/-/prettier-2.7.1.tgz 0ms (cache hit)
+23 silly tarball no local data for prettier@https://registry.npmjs.org/prettier/-/prettier-2.7.1.tgz. Extracting by manifest.
+24 http fetch GET 200 https://registry.npmjs.org/prettier/-/prettier-2.7.1.tgz 398ms (cache miss)
+25 silly ADD node_modules/prettier
+26 silly ADD node_modules/placeholder_package
+27 verbose cwd /orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm
+28 verbose os Linux 6.12.7-100.fc40.x86_64
+29 verbose node v23.6.0
+30 verbose npm  v10.9.2
+31 verbose exit 0
+32 info ok

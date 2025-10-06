@@ -1,0 +1,23 @@
+0 verbose cli /orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repota8o5rkg/node_env-default/bin/node /orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repota8o5rkg/node_env-default/bin/npm
+1 info using npm@11.3.0
+2 info using node@v24.2.0
+3 silly config load:file:/orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repota8o5rkg/node_env-default/lib/node_modules/npm/npmrc
+4 warn Unknown cli config "--ignore-prepublish". This will stop working in the next major version of npm.
+5 silly config load:file:/orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repota8o5rkg/.npmrc
+6 silly config load:file:/u/cdslab/kdavydzenka/.npmrc
+7 silly config load:file:/orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repota8o5rkg/node_env-default/etc/npmrc
+8 verbose title npm install
+9 verbose argv "install" "--include" "dev" "--include" "prod" "--ignore-prepublish" "--no-progress" "--no-save"
+10 verbose logfile logs-max:10 dir:/u/cdslab/kdavydzenka/.npm/_logs/2025-06-10T18_30_36_576Z-
+11 verbose logfile /u/cdslab/kdavydzenka/.npm/_logs/2025-06-10T18_30_36_576Z-debug-0.log
+12 silly logfile done cleaning log files
+13 silly packumentCache heap:4496293888 maxSize:1124073472 maxEntrySize:562036736
+14 silly idealTree buildDeps
+15 silly reify moves {}
+16 silly audit report null
+17 verbose cwd /orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repota8o5rkg
+18 verbose os Linux 6.13.12-200.fc41.x86_64
+19 verbose node v24.2.0
+20 verbose npm  v11.3.0
+21 verbose exit 0
+22 info ok

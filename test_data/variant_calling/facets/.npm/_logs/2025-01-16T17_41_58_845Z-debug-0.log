@@ -1,0 +1,35 @@
+0 verbose cli /orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/node_env-default/bin/node /orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/node_env-default/bin/npm
+1 info using npm@10.9.2
+2 info using node@v23.6.0
+3 silly config load:file:/orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/node_env-default/lib/node_modules/npm/npmrc
+4 silly config load:file:/orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/.npmrc
+5 silly config load:file:/u/cdslab/kdavydzenka/.npmrc
+6 silly config load:file:/orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm/node_env-default/etc/npmrc
+7 verbose title npm pack
+8 verbose argv "pack"
+9 verbose logfile logs-max:10 dir:/u/cdslab/kdavydzenka/.npm/_logs/2025-01-16T17_41_58_845Z-
+10 verbose logfile /u/cdslab/kdavydzenka/.npm/_logs/2025-01-16T17_41_58_845Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 notice
+14 notice 📦  placeholder_package@0.0.0
+15 notice Tarball Contents
+16 notice 1.1kB LICENSE
+16 notice 1.0kB README.md
+16 notice 133B package.json
+17 notice Tarball Details
+18 notice name: placeholder_package
+19 notice version: 0.0.0
+20 notice filename: placeholder_package-0.0.0.tgz
+21 notice package size: 1.3 kB
+22 notice unpacked size: 2.2 kB
+23 notice shasum: 7e5e8c6255bd03a411aecda513f4030a52a99e35
+24 notice integrity: sha512-UsAGHHPajm+vK[...]soPtmHVcjGLdg==
+25 notice total files: 3
+26 notice
+27 verbose cwd /orfeo/cephfs/home/cdslab/kdavydzenka/.cache/pre-commit/repohrqq0_hm
+28 verbose os Linux 6.12.7-100.fc40.x86_64
+29 verbose node v23.6.0
+30 verbose npm  v10.9.2
+31 verbose exit 0
+32 info ok
