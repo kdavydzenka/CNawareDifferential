@@ -20,8 +20,8 @@ CNawareDifferential requires two main data types:
 harmonizes and aligns CN data with RNA-seq gene expression matrices to ensure consistent genomic mapping.
 
 - **Differential Expression analysis:**
-CN-naïve statistical test using *PyDESeq2*
-CN-aware analysis using *DeConveil* to correct for CNV-driven effects in gene expression.
+    - CN-naïve statistical test using *PyDESeq2*
+    - CN-aware analysis using *DeConveil* to correct for CNV-driven effects in gene expression.
 
 - **Downstream analysis:**
 supports gene categorization and interpretation based on CN-aware differential expression outcomes.
